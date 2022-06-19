@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+body{
+	font-size: small;  /*폰트 크기 줄임*/
+}

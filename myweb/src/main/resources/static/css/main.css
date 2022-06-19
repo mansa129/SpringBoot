@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+	font-size: small;  /*폰트 크기 줄임*/
+}
+
+a.center-logo{
+	margin:0 auto;
+	width: 45%;
+	font-size: xx-large;	
+}
+
+a.color-green{
+	color:green;
+}

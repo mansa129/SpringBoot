@@ -1,0 +1,21 @@
+package com.example.myweb.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.example.myweb.model.User;
+
+@Service
+public class UserServiceImpl implements UserService{
+
+	@Override
+	public List<User> getAllUser() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+    
+	
+	
+
+}
